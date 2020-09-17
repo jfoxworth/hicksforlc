@@ -32,6 +32,7 @@
 
 </head>
 
+
 <body class="stretched side-push-panel">
 
     <div class="body-overlay"></div>
