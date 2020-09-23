@@ -61,13 +61,13 @@
 
                             <ul class="one-page-menu menu-container" data-easing="easeInOutExpo" data-speed="1250" data-offset="65">
                                 <li class="menu-item">
-                                    <a href="#" class="menu-link" data-href="#wrapper"><div>Home</div></a>
+                                    <a href="/" class="menu-link"><div>Home</div></a>
                                 </li>
                                 <li class="menu-item">
-                                    <a href="#" class="menu-link" data-href="#section-about"><div>About Me</div></a>
+                                    <a href="/about" class="menu-link"><div>About Me</div></a>
                                 </li>
                                 <li class="menu-item">
-                                    <a href="#" class="menu-link" data-href="#section-works"><div>Issues</div></a>
+                                    <a href="/issues" class="menu-link"><div>Issues</div></a>
                                 </li>
                             </ul>
 
@@ -131,6 +131,8 @@
 
                             <p>I am a Veteran, Conservative, Patriot, Father and Christian. I reject defeatism, and believe in fighting for what is right, and never give up. We need to ensure liberal policies stay out of our city. Let's preserve our core values, small business, support the police and first responders. Let's keep League City the same family friendly place I've grown to love.</p>
 
+                            <h3><a href="/about">Read my full bio and vision</a></h3>
+
                         </div>
                     </div>
 
@@ -144,6 +146,49 @@
             </div>
 
         </section><!-- #content end -->
+
+
+        <section class="bottommargin">
+            <div class="container">
+
+
+                <div class="heading-block center mx-auto" style="max-width: 700px">
+                    <h2 class="mb-2 nott ls0">The Issues</h2>
+                        <span>Read my <a href="/issues">full issues</a></span>
+                </div>
+
+
+                <div class="row mt-4 col-mb-50">
+
+                    <div class="col-lg-4">
+                        <i class="i-plain color i-large icon-heart2 inline-block" style="margin-bottom: 15px;"></i>
+                        <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
+                            <h4>The Corona Virus</h4>
+                        </div>
+                        <p>The closing of businesses due to Corona Virus has had a dramatic effect on the city. I would have never supported this.</p>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <i class="i-plain color i-large icon-calendar-1 inline-block" style="margin-bottom: 15px;"></i>
+                        <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
+                            <h4>City Management</h4>
+                        </div>
+                        <p>We have a number of projects that are behind. We need to ensure that bottlenecks are found and addressed.</p>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <i class="i-plain color i-large icon-money inline-block" style="margin-bottom: 15px;"></i>
+                        <div class="heading-block border-bottom-0" style="margin-bottom: 15px;">
+                            <h4>The Budget</h4>
+                        </div>
+                        <p>We need to continue the work of the previous council with respect to the budget.</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
 
         <!-- Footer
         ============================================= -->
